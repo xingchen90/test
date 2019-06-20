@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.32"/>
+	<classpathentry kind="lib" path="adminapi.jar"/>
+	<classpathentry kind="lib" path="crypto.jar"/>
+	<classpathentry kind="lib" path="infosec_iText-5.0.6.jar"/>
+	<classpathentry kind="lib" path="ISFJ_v2_0_139_7_BAISC_JDK14.jar"/>
+	<classpathentry kind="lib" path="log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="netsign.jar"/>
+	<classpathentry kind="lib" path="netsignapi.jar"/>
+	<classpathentry kind="lib" path="nsframework.jar"/>
+	<classpathentry kind="lib" path="upload.jar"/>
+	<classpathentry kind="lib" path="jacob.jar" sourcepath="jacob-1.18_src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
